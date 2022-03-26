@@ -25,3 +25,5 @@
 * https://transhumanist-party.org/constitution/
 * https://figmentsofspeculation.wordpress.com/2020/02/26/david-pearces-hedonistic-imperative-a-critique/
 * https://danilamedvedev.com/
+* https://www.lesswrong.com/
+* 
