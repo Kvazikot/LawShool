@@ -22,4 +22,6 @@
 
 
 # URLS
-https://transhumanist-party.org/constitution/
+* https://transhumanist-party.org/constitution/
+* https://figmentsofspeculation.wordpress.com/2020/02/26/david-pearces-hedonistic-imperative-a-critique/
+* 
