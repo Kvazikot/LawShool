@@ -3,7 +3,7 @@
 * https://figmentsofspeculation.wordpress.com/2020/02/26/david-pearces-hedonistic-imperative-a-critique/
 * https://danilamedvedev.com/
 * https://www.lesswrong.com/
-* 
+* http://www.rationalargumentator.com/index/blog/2015/05/no-lawgiver/
 
 # Источники в youtube
 1. 
