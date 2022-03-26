@@ -14,3 +14,12 @@
 13. Parapsychological Association https://www.youtube.com/c/ParapsychOrg1957
 14. Elon Musk Rewind https://www.youtube.com/c/ElonMuskRewindSpaceX
 15. 
+
+# Книги
+* The End of the Beginning Life, Society and Economy on the Brink of the Singularity by Ben Goertzel, Ted Goertzel 
+* Who Owns the Future by Jaron Lanier 
+* 
+
+
+# URLS
+https://transhumanist-party.org/constitution/
