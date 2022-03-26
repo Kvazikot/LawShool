@@ -1,3 +1,10 @@
+# URLS
+* https://transhumanist-party.org/constitution/
+* https://figmentsofspeculation.wordpress.com/2020/02/26/david-pearces-hedonistic-imperative-a-critique/
+* https://danilamedvedev.com/
+* https://www.lesswrong.com/
+* 
+
 # Источники в youtube
 1. 
 2. The Law Academy https://www.youtube.com/channel/UCPc7We8HYyw-4hHp5KQSqfA
@@ -114,9 +121,3 @@ docx 2020-02-20 Том Кэмпбелл, Моя большая всеобщая 
 * Сознание и квантовая механика Жизнь в параллельных мирах by Менский М.Б. (z-lib.org).djvu
 * Nonlinear Dynamics And Chaos With Applications To Physics, Biology, Chemistry, And Engineering by Steven H. Strogatz (z-lib.org).djvu
 
-# URLS
-* https://transhumanist-party.org/constitution/
-* https://figmentsofspeculation.wordpress.com/2020/02/26/david-pearces-hedonistic-imperative-a-critique/
-* https://danilamedvedev.com/
-* https://www.lesswrong.com/
-* 
