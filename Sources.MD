@@ -20,7 +20,7 @@
 12. Jeffrey Kaplan https://www.youtube.com/channel/UC_hukbByJP7OZ3Xm2tszacQ
 13. Parapsychological Association https://www.youtube.com/c/ParapsychOrg1957
 14. Elon Musk Rewind https://www.youtube.com/c/ElonMuskRewindSpaceX
-15. 
+15. АнтиТьюринг: канал Игоря Шнуренко https://www.youtube.com/channel/UC7iRiHgDeGIf3oyyFN_lK0g
 
 # Книги
 * The End of the Beginning Life, Society and Economy on the Brink of the Singularity by Ben Goertzel, Ted Goertzel 
